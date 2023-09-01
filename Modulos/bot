@@ -96,7 +96,7 @@ fun_ajuda() {
             --text "$(echo -e $env_msg)" \
             --parse_mode html
 	ShellBot.sendMessage --chat_id $id_chatuser \
-            --text "$(echo -e ✅ All Tutorials , Updates : @DRAGON_VPS_MANAGER)"
+            --text "$(echo -e ✅ All Tutorials , Updates : @PROFESSOR_192)"
         return 0
     elif [[ -d /etc/bot/suspensos/$id_name ]]; then
         ShellBot.sendMessage --chat_id $id_chatuser \
@@ -130,7 +130,7 @@ fun_ajuda() {
             --text "$(echo -e $env_msg)" \
             --parse_mode html
 	ShellBot.sendMessage --chat_id $id_chatuser \
-            --text "$(echo -e ✅ All Tutorials , Updates : @DRAGON_VPS_MANAGER)"
+            --text "$(echo -e ✅ All Tutorials , Updates : @PROFESSOR_192)"
         return 0
     elif [[ "$(grep -w "$id_name" $ativos | awk '{print $NF}')" == 'subrevenda' ]]; then
         local env_msg
@@ -156,7 +156,7 @@ fun_ajuda() {
             --text "$(echo -e $env_msg)" \
             --parse_mode html
 	ShellBot.sendMessage --chat_id $id_chatuser \
-            --text "✅ All Tutorials , Updates : @DRAGON_VPS_MANAGER"
+            --text "✅ All Tutorials , Updates : @PROFESSOR_192"
         return 0
     else
         ShellBot.sendMessage --chat_id $id_chatuser \
