@@ -1,9 +1,9 @@
-## ◇────── DRAGON VPS MANAGER ───────◇
+## ◇────── PROFESSOR VPS MANAGER ───────◇
 
 ㅤ
 <p align="left">
   <a href="" rel="noopener">
- <img width=550px height=550px src="https://github.com/januda-ui/januda-ui/blob/main/icons/photo_2021-12-01_07-36-12.jpg?raw=true?raw=true" alt="logo"></a>
+ <img width=750px height=350px src="https://www.hostinet.com/wp-content/uploads/2013/06/banner_VPS_260x150.png?raw=true?raw=true" alt="logo"></a>
 </p>
 
 ##
@@ -26,8 +26,8 @@ ___Tutorial___
 
 <P>
 <div class="div1">
-<span><a href="https://player.vimeo.com/video/652289751"><img src="https://user-images.githubusercontent.com/83800532/144345002-c3ec5251-f723-4a81-bcaa-ad4579562218.png" alt=""width="50"height="50"/></a></span>
-<span><a href="https://t.me/dragon_vps_manager/18"><img src="https://user-images.githubusercontent.com/83800532/143560346-101a5bbb-53c6-4d1d-90c9-364c3355a6b7.png" alt=""width="50"height="50"/></a></span>
+<span><a href="https://player.vimeo.com"><img src="https://user-images.githubusercontent.com/83800532/144345002-c3ec5251-f723-4a81-bcaa-ad4579562218.png" alt=""width="50"height="50"/></a></span>
+<span><a href="https://t.me"><img src="https://user-images.githubusercontent.com/83800532/143560346-101a5bbb-53c6-4d1d-90c9-364c3355a6b7.png" alt=""width="50"height="50"/></a></span>
 </div>
 </P>
   
@@ -81,7 +81,7 @@ ___Based on___
  
 ___Credits___
 
-<p>see on <a href="https://github.com/januda-ui/DRAGON-VPS-MANAGER/wiki/Credits" target="_blank" rel="noopener">wiki</a></p>
+<p>see on <a href="https://github.com" target="_blank" rel="noopener">wiki</a></p>
 <p>see on <a href="https://telegra.ph/DRAGON-VPS-MANAGER-11-30" target="_blank" rel="noopener">Telegra.ph</a>&nbsp;</p>
   <P><b><i> 💐💐 To everyone who gave me advice and ideas.💐💐 </i></b></p>
 
@@ -91,7 +91,7 @@ ___Follow Us!___
 
  <p>    
 <div class="div2">
- <span><a href="https://t.me/s/dragon_vps_manager"><img src="https://user-images.githubusercontent.com/83800532/143560346-101a5bbb-53c6-4d1d-90c9-364c3355a6b7.png" alt=""width="50"height="50"/></a></span>
+ <span><a href="https://t"><img src="https://user-images.githubusercontent.com/83800532/143560346-101a5bbb-53c6-4d1d-90c9-364c3355a6b7.png" alt=""width="50"height="50"/></a></span>
  </div>
  </p>
  
@@ -99,7 +99,7 @@ ___Follow Us!___
  
 ___⚠️ Announcement ⚠️___
 
-<p><i>This script is not our own <a href="https://t.me/s/singledevelopers/">@SingleDevelopers</a> creation and we will be working on providing our own script soon.<i></p>
+<p><i>This script is not our own <a href="https://t.me/s//">@SINGLEDevelopers</a> creation and we will be working on providing our own script soon.<i></p>
 
  
 ##  ㅤ
